@@ -1,0 +1,4 @@
+when I want to push a file 
+
+git remote add origin https://github.com/augusite/mygit.git
+git push -u origin master
